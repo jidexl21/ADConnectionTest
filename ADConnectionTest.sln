@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADConnectionTest", "ADConnectionTest\ADConnectionTest.csproj", "{C31057A3-32C8-4874-98B8-54C15EF15F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionStringTests", "ConnectionStringTests\ConnectionStringTests.csproj", "{8ED692F4-5F54-447E-B5F2-25C2FC6562FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31057A3-32C8-4874-98B8-54C15EF15F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31057A3-32C8-4874-98B8-54C15EF15F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31057A3-32C8-4874-98B8-54C15EF15F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31057A3-32C8-4874-98B8-54C15EF15F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED692F4-5F54-447E-B5F2-25C2FC6562FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED692F4-5F54-447E-B5F2-25C2FC6562FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED692F4-5F54-447E-B5F2-25C2FC6562FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED692F4-5F54-447E-B5F2-25C2FC6562FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B30B88ED-8640-48F5-A8B0-470C7A2EF50E}
+	EndGlobalSection
+EndGlobal
