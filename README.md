@@ -1,6 +1,6 @@
 # ADConnectionTest
 
-This app tests your connection strings.
+This dotnet core app tests your connection strings.
 You add a list of connection strings to a file and this app tests them all. 
 Can run tests on a remote server or local machine
 
